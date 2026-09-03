@@ -18,7 +18,7 @@ A third-person Unreal Engine 5.8 gameplay and level-design prototype set on a st
 
 ## Play the demo
 
-Download the Windows build from the repository's **Releases** page, extract the ZIP, and run `Test.exe`.
+Download the [Windows playable build](https://github.com/5612651/UE5-Island-Obstacle-Challenge/releases/tag/v1.0.0), extract the ZIP, and run `Test.exe`.
 
 The `Content/Code` folder is a compact portfolio snapshot of the project-specific character and gameplay-mechanism Blueprints. It is intended for technical review; it does not include Marketplace/Fab environment art, character assets, effects, or the full level map.
 
